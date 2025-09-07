@@ -1,14 +1,9 @@
 
 # 👋 Hi, I'm Maaz Siddiqui
+## 📊 GitHub Analytics
 
-🎓 Final-year **Computer Engineering student** at **M.H. Saboo Siddik College**  
-💻 Passionate about **AI, web development, and emerging technologies**  
-🚀 Skilled in **Python, Flask, Django, Bootstrap, Tailwind CSS**, and database systems
-
----
-
+![MaazSiddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=maazsiddiqui79&theme=tokyonight&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maazsiddiqui79&layout=pie&theme=panda)
 ## 🚀 About Me
-
 I am a **Computer Engineering student** with a strong foundation in software development and a keen interest in **Artificial Intelligence, Machine Learning, and Cloud Computing**.  
 My focus is on building **scalable, secure, and user-friendly applications** that solve real-world problems.
 
@@ -16,6 +11,11 @@ My focus is on building **scalable, secure, and user-friendly applications** tha
 - 🌱 Learning: **Cloud deployment (AWS, Vercel), Machine Learning, RESTful APIs**
 - 💡 Interested in: **AI-driven applications and automation tools**
 - 🧩 Strong knowledge of **Operating Systems, Databases, and Networking**
+
+
+🎓 Final-year **Computer Engineering student** at **M.H. Saboo Siddik College**  
+💻 Passionate about **AI, web development, and emerging technologies**  
+🚀 Skilled in **Python, Flask, Django, Bootstrap,**, and database systems
 
 ---
 
@@ -112,12 +112,6 @@ My focus is on building **scalable, secure, and user-friendly applications** tha
 
 ---
 
-## 📊 GitHub Analytics
-
-![MaazSiddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=maazsiddiqui79&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maazsiddiqui79&layout=pie&theme=panda)
-
 
 # 📌 Featured Repositories
 
@@ -152,6 +146,10 @@ My focus is on building **scalable, secure, and user-friendly applications** tha
   <a href="https://www.instagram.com/siddiqui.maazzz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+   <a href="https://the-maaz-portfolio.vercel.app/">
+      <img width="58" height="40" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true">
+   </a>&nbsp;&nbsp;
+
 </div>
 
 ---
@@ -159,7 +157,6 @@ My focus is on building **scalable, secure, and user-friendly applications** tha
 ## 📞 Contact Me
 
 - 📍 Location: Mumbai, India
-- 💼 LinkedIn: [linkedin.com/siddiqui-maazzz](https://linkedin.com/in/siddiqui-maazzz)
 - 📧 Email: **siddiqui.maaz79@gmail.com**
 - 📱 Phone/WhatsApp: **+91-88502 81310**
 
