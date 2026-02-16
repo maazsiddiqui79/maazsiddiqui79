@@ -1,8 +1,6 @@
 
 # 👋 Hi, I'm Maaz Siddiqui
-## 📊 GitHub Analytics
 
-![MaazSiddiqui GitHub stats](https://github-readme-stats.vercel.app/api?username=maazsiddiqui79&theme=tokyonight&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maazsiddiqui79&layout=pie&theme=panda)
 ## 🚀 About Me
 I am a **Computer Engineering student** with a strong foundation in software development and a keen interest in **Artificial Intelligence, Machine Learning, and Cloud Computing**.  
 My focus is on building **scalable, secure, and user-friendly applications** that solve real-world problems.
