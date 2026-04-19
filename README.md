@@ -1,162 +1,99 @@
 
-# 👋 Hi, I'm Maaz Siddiqui
 
-## 🚀 About Me
-I am a **Computer Engineering student** with a strong foundation in software development and a keen interest in **Artificial Intelligence, Machine Learning, and Cloud Computing**.  
-My focus is on building **scalable, secure, and user-friendly applications** that solve real-world problems.
+<!-- 🔥 Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Maaz%20Siddiqui&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-- 🔭 Currently working on: **Web development projects with Flask and Django**
-- 🌱 Learning: **Cloud deployment (AWS, Vercel), Machine Learning, RESTful APIs**
-- 💡 Interested in: **AI-driven applications and automation tools**
-- 🧩 Strong knowledge of **Operating Systems, Databases, and Networking**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Maaz+Siddiqui;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Building+Real+World+Projects" />
+</h1>
 
-
-🎓 Final-year **Computer Engineering student** at **M.H. Saboo Siddik College**  
-💻 Passionate about **AI, web development, and emerging technologies**  
-🚀 Skilled in **Python, Flask, Django, Bootstrap,**, and database systems
+<h3 align="center">💻 Full Stack Developer | AI Enthusiast</h3>
 
 ---
 
-## 📚 Education
+## 🧠 About Me
 
-- **Diploma in Computer Engineering** – M.H. Saboo Siddik College
-- Projects and research include:
-  - **Portfolio Website** – Full personal showcase
-  - **Blog Application** – Dynamic blogging platform with authentication
-  - **URL Shortener** – Scalable link shortener with analytics
-
----
-
-## 🛠️ Technical Skills
-
-### 🌐 Languages / Markup Language 
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-</div>  
+- 🎓 Diploma in Computer Engineering (2023–2026)
+- 🔭 Working on **Full Stack Web Development**
+- 🌱 Learning **Backend + Cloud + AI**
+- 💡 Focus: **Real-world problem solving apps**
+- 🧠 Strong in **OS, DBMS, Networking, UI/UX**
 
 ---
 
-### 🖼️ Frameworks & Libraries  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="Selenium logo" />
-</div>  
+## 🎯 What I Do
+
+- 🚀 Build scalable web apps using Flask & Django  
+- 🎨 Design clean UI/UX using Figma  
+- 🤖 Develop automation tools with Python & Selenium  
+- ☁️ Deploy apps using Vercel & cloud platforms  
 
 ---
 
-### 🗄️ Databases  
-<div align="left">
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="SQLite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB logo" />
-</div>  
+## 💻 Tech Stack
+
+### ⚙️ Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🧩 Frameworks
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-### ⚙️ Tools & Platforms  
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo" />
-</div>  
+## 💼 Projects (Glass Style Layout)
 
----
+<div align="center">
 
-## 💼 Projects Showcase
-
-- 🌐 [**Portfolio Website**](https://the-maaz-portfolio.vercel.app/)  
-  A personal portfolio showcasing my education, skills, and projects.
-
-- 📝 [**Blog Application**](https://github.com/maazsiddiqui79/Blog-Website)  
-  A full-stack blog platform with authentication, CRUD operations, and SQLAlchemy integration.
-
-- 🔗 [**URL Shortener**](https://shortify-maazdev.vercel.app/)  
-  A Django-powered tool to shorten URLs with analytics tracking.
-
-- ✅ [**To-Do List App**](https://go-todo-task.onrender.com/)  
-  A productivity-focused app built with Flask and SQLAlchemy.
-
-- 🔤 [**Morse Code Translator**](http://morse-origin.vercel.app/)  
-  A Python-based tool that converts text to Morse code and Morse code back to text, designed for quick learning and decoding.
-
----
-
-
-# 📌 Featured Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maazsiddiqui79&repo=PORTFOLIO&theme=tokyonight)](https://github.com/maazsiddiqui79/PORTFOLIO) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maazsiddiqui79&repo=To-Do-App-with-User-Authentication&theme=tokyonight)](https://github.com/maazsiddiqui79/To-Do-App-with-User-Authentication) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maazsiddiqui79&repo=PulseAI&theme=tokyonight)](https://github.com/maazsiddiqui79/PulseAI)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maazsiddiqui79&repo=100-Days-Python-Project&theme=tokyonight)](https://github.com/maazsiddiqui79/100-Days-Python-Project)
-
----
-
-## 📖 What I'm Currently Learning
-
-- 🌐 Advanced **Django & Flask** concepts
-- ☁️ **Cloud Deployment** with AWS and Vercel
-- 🤖 Basics of **Machine Learning and AI**
-- 🛠️ **System Design** and scalable architectures
-
----
-
-## 🌍 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/siddiqui-maazzz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/siddiquimaazzz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/siddiqui.maazzz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-   <a href="https://the-maaz-portfolio.vercel.app/">
-      <img width="58" height="40" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true">
-   </a>&nbsp;&nbsp;
+| 🚀 Project | 🔗 Link | ⚡ Tech |
+|----------|--------|--------|
+| Portfolio Website | [Live](https://the-maaz-portfolio.vercel.app/) | HTML, CSS |
+| Blog App | [GitHub](https://github.com/maazsiddiqui79/Blog-Website) | Flask, SQL |
+| URL Shortener | [Live](https://shortify-maazdev.vercel.app/) | Django |
+| To-Do App | [Live](https://go-todo-task.onrender.com/) | Flask |
+| Morse Translator | [Live](http://morse-origin.vercel.app/) | Python |
 
 </div>
 
 ---
 
-## 📞 Contact Me
+## 📊 GitHub Analytics
 
-- 📍 Location: Mumbai, India
-- 📧 Email: **siddiqui.maaz79@gmail.com**
-- 📱 Phone/WhatsApp: **+91-88502 81310**
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maazsiddiqui79&show_icons=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maazsiddiqui79&theme=react" />
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazsiddiqui79&theme=react-dark" width="100%"/>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/siddiqui-maazzz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/siddiquimaazzz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.instagram.com/siddiqui.maazzz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://the-maaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+## 📞 Contact
+
+- 📍 Mumbai, India  
+- 📧 siddiqui.maaz79@gmail.com  
+- 📱 +91-88502 81310  
 
 ---
 
@@ -172,3 +109,6 @@ I am open to **collaborations, internships, and freelance opportunities** in:
 Grow every day"_
 
 ---
+
+<!-- 🔥 Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
