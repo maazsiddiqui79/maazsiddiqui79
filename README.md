@@ -1,15 +1,13 @@
 
 
 <!-- 🔥 Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Maaz%20Siddiqui&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Full-Stack%20Developer%20|%20AI%20-%20ML%20Enthusiast%20|%20Computer%20Engineering%20Diploma%20Graduate%20&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Maaz+Siddiqui;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Maaz+Siddiqui;I'm+Full+Stack+Developer;I'm+AI+%26+Automation+Enthusiast;And+Building+Real+World+Projects" />
 </h1>
 
-<h3 align="center">💻 Full Stack Developer | AI Enthusiast</h3>
 
----
 
 ## 🧠 About Me
 
@@ -17,7 +15,7 @@
 - 🔭 Working on **Full Stack Web Development**
 - 🌱 Learning **Backend + Cloud + AI**
 - 💡 Focus: **Real-world problem solving apps**
-- 🧠 Strong in **OS, DBMS, Networking, UI/UX**
+- 🧠 Strong in **OS, DBMS, Networking, UI/UX, Web Development**
 
 ---
 
@@ -70,11 +68,11 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maazsiddiqui79&show_icons=true&theme=react" />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maazsiddiqui79&theme=react" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazsiddiqui79&theme=react-dark" width="100%"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazsiddiqui79&theme=react-dark" width="100%"/>
 
 ---
 
@@ -111,4 +109,4 @@ Grow every day"_
 ---
 
 <!-- 🔥 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=200&section=footer&width='100%'"/>
