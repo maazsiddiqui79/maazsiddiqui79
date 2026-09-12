@@ -1,7 +1,7 @@
 
 
 <!-- 🔥 Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Full-Stack%20Developer%20|%20AI%20-%20ML%20Enthusiast%20|%20Computer%20Engineering%20Diploma%20Graduate%20&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Computer%20Engineering%20Diploma%20Graduate%20|%20May%202026&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Maaz+Siddiqui;I'm+Full+Stack+Developer;I'm+AI+%26+Automation+Enthusiast;And+Building+Real+World+Projects" />
@@ -11,8 +11,8 @@
 
 ## 🧠 About Me
 
-- 🎓 Diploma in Computer Engineering (2023–2026)
-- 🔭 Working on **Full Stack Web Development**
+- 🎓 BE in Computer Engineering at TCET, Kandivali
+- 📜 Diploma in Computer Engineering (2023–2026)- 🔭 Working on **Full Stack Web Development**
 - 🌱 Learning **Backend + Cloud + AI**
 - 💡 Focus: **Real-world problem solving apps**
 - 🧠 Strong in **OS, DBMS, Networking, UI/UX, Web Development**
@@ -70,7 +70,7 @@
 <div align="center">
   
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maazsiddiqui79&theme=react" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazsiddiqui79&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazsiddiqui79&theme=react-dark" />
 </div>
 
 
@@ -79,6 +79,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+<a href="https://the-maaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Social%20Page-000000?style=for-the-badge&"/></a>
 <a href="https://www.linkedin.com/in/siddiqui-maazzz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/siddiquimaazzz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/siddiqui.maazzz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
