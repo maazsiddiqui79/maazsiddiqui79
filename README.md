@@ -12,7 +12,8 @@
 ## 🧠 About Me
 
 - 🎓 BE in Computer Engineering at TCET, Kandivali
-- 📜 Diploma in Computer Engineering (2023–2026)- 🔭 Working on **Full Stack Web Development**
+- 📜 Diploma in Computer Engineering (2023–2026)
+- 🔭 Working on **Full Stack Web Development**
 - 🌱 Learning **Backend + Cloud + AI**
 - 💡 Focus: **Real-world problem solving apps**
 - 🧠 Strong in **OS, DBMS, Networking, UI/UX, Web Development**
