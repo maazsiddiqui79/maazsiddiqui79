@@ -57,7 +57,7 @@
 | 🚀 Project | 🔗 Link | ⚡ Tech |
 |----------|--------|--------|
 | Portfolio Website | [Live](https://the-maaz-portfolio.vercel.app/) | HTML, CSS, Flask |
-| Smart Blogging | [GitHub]((https://github.com/maazsiddiqui79/Smart_Blogging-Platform-FYP)) | Django, Jinja, SQL |
+| Smart Blogging | [GitHub](https://github.com/maazsiddiqui79/Smart_Blogging-Platform-FYP) | Django, Jinja, SQL |
 | URL Shortener | [Live](https://shortify-maazdev.vercel.app/) | Flask |
 | To-Do App | [Live](https://go-todo-task.onrender.com/) | Flask |
 | Morse Translator | [Live](http://morse-origin.vercel.app/) | Python, Flask, HTML, CSS |
