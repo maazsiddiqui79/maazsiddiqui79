@@ -82,10 +82,10 @@
 |----------|--------|--------|
 | Portfolio Website | [Live](https://the-maaz-portfolio.vercel.app/) | HTML, CSS, Flask |
 | Smart Blogging | [GitHub](https://github.com/maazsiddiqui79/Smart_Blogging-Platform-FYP) | Django, Jinja, SQL |
-| SpeakEasy AI | [GitHub](https://github.com/maazsiddiqui79/SpeakEasy--GEN-AI) | Next.js, React, TypeScript, AI |
+| SpeakEasy AI | [Live](https://speakeasy-ai-one.vercel.app/) | Next.js, React, TypeScript, AI |
 | Morse Translator | [Live](http://morse-origin.vercel.app/) | Python, Flask, HTML, CSS |
 | URL Shortener | [Live](https://shortify-maazdev.vercel.app/) | Flask |
-| Employee Training & Certification Management | [GitHub](https://github.com/maazsiddiqui79/IP--employee-training-certification-management-system) | React, JavaScript, CSS |
+| Employee Training & Certification Management | [Live](https://etcms.vercel.app/) | React, JavaScript, CSS |
 | To-Do App | [Live](https://go-todo-task.onrender.com/) | Flask |
 
 </div>
