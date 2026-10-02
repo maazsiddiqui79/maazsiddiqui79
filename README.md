@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Computer%20Engineering%20Diploma%20Graduate%20|%20May%202026&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Maaz+Siddiqui;I'm+Full+Stack+Developer;I'm+AI+%26+Automation+Enthusiast;And+Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+a+Maaz+Siddiqui;I'm+a+Full+Stack+Developer+,;AI+%26+Automation+Enthusiast;And+Building+Real+World+Projects+." />
 </h1>
 
 
