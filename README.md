@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Computer%20Engineering%20Diploma%20Graduate%20|%20May%202026&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+👋,+I'm+Maaz+Siddiqui;I'm+a+Full+Stack+Developer+,;AI+%26+Automation+Enthusiast;And+Building+Real+World+Projects+." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&color=FFFFFF&lines=Hi+👋,+I'm+Maaz+Siddiqui;I'm+a+Full+Stack+Developer+,;AI+%26+Automation+Enthusiast;&nbsp;And+Building+Real+World+Projects+." />
 </h1>
 
 
@@ -95,7 +95,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maazsiddiqui79&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maazsiddiqui79&show_icons=true&theme=tokyonight&hide_border=true" />&nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maazsiddiqui79&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -105,11 +105,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://maaz-social-card.vercel.app/"><img src="https://img.shields.io/badge/Social%20Page-000000?style=for-the-badge&"/></a>
-<a href="https://www.linkedin.com/in/siddiqui-maazzz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/siddiquimaazzz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.instagram.com/siddiqui.maazzz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://the-maaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://maaz-social-card.vercel.app/"><img src="https://img.shields.io/badge/Social%20Page-000000?style=for-the-badge&"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/siddiqui-maazzz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://x.com/siddiquimaazzz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/siddiqui.maazzz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="https://the-maaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a> &nbsp;
 </p>
 
 ---
@@ -132,8 +132,5 @@ I am open to **collaborations, internships, and freelance opportunities** in:
 
 > _"Code Every Day,
 Grow every day"_
-
----
-
 <!-- 🔥 Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=200&section=footer&width='100%'"/>
